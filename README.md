@@ -1,3 +1,10 @@
+Szerző: Sallai András<br>
+Copyright © 2014, Sallai András<br>
+Szerkesztve: 2014-2024<br>
+Licenc: CC BY-SA 4.0<br>
+Web: https://szit.hu<br>
+<hr>
+
 # css0351
 
 # Négyzetek HTML + Pytest
