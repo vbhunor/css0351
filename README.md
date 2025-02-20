@@ -1,1 +1,11 @@
 # css0351
+
+# Négyzetek HTML + Pytest
+
+Ez a projekt egy HTML és CSS oldalt tartalmaz, amely egy nagy négyzetet jelenít meg fekete szegéllyel és négy kisebb négyzetet, amelyek átlósan helyezkednek el.
+
+## Feladat
+
+1. **Hozza létre a HTML és CSS fájlt**, amely egy fekete szegélyű négyzetet tartalmaz, benne négy átlósan elhelyezett kisebb négyzettel.
+2. **Biztosítsa, hogy a kis négyzetek a megfelelő osztályokat kapják** és igazodjanak a nagy négyzet méretéhez.
+3. **Futtassa a pytest tesztet**, amely ellenőrzi az oldal szerkezetét.
